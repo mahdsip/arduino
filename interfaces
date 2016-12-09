@@ -18,4 +18,4 @@ network 192.168.1.0
 broadcast 192.168.1.255
 gateway 192.168.1.1
 wpa-ssid "MOVISTAR_80D8"
-wpa-passphrase "P7Wy79M7MCzE7AzKCNCC"
+wpa-passphrase "**************"
