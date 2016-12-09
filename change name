@@ -1,0 +1,7 @@
+jasper.py
+--Conversation = Conversation("TIKI", self.mic, self.config)
+
+jasper/static/keyword_phrases
+change JASPER for TIKI
+
+Generar languaje_model_persona.lm y dictionary_persona.dic
