@@ -4,4 +4,6 @@ jasper.py
 jasper/static/keyword_phrases
 change JASPER for TIKI
 
+One way is by uploading a file containing the words you wish to include, into this tool: http://www.speech.cs.cmu.edu/tools/lmtool-new.html. Then, copy the resulting .dic and .lm file to replace the existing dictionary_persona.lm and languagemodel_persona.lm. Note that in the persona dictionary and language model we provide, we include a few other simple words to avoid false positives. It makes the model less likely to read "Jasper" when the word was actually not spoken.
+
 Generar languaje_model_persona.lm y dictionary_persona.dic
